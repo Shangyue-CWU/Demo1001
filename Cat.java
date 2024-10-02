@@ -3,6 +3,8 @@ public class TestSuite {
         System.out.println("Hello, Cat!");
         System.out.println("Hello, Dog!");
 
+	System.out.println("Hello, CS380!");
+
     }
 
 }
